@@ -1,0 +1,38 @@
+.okenko{
+    background-color: aqua;
+    border: 1px solid black;
+    width: 500px;
+}
+
+main{
+display: flex;
+justify-content: center;
+
+}
+
+
+.odsazeni{
+    display: flex;
+    justify-content: center;
+    margin: 16px 0;
+
+}
+
+
+.buttons a {
+    background-color: brown;
+    color: azure;
+    padding: 5px;
+    border: 1px solid black;
+
+
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin: auto;
+
+
+}
