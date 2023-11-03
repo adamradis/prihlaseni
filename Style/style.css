@@ -18,6 +18,12 @@ justify-content: center;
 
 }
 
+.odsazeni label{
+    width: 150px;
+    text-align: left;
+
+}
+
 
 .buttons a {
     background-color: brown;
@@ -28,11 +34,11 @@ justify-content: center;
 
 }
 
+
 .buttons{
     display: flex;
-    justify-content: space-between;
-    width: 50%;
+    justify-content: space-around;
     margin: auto;
-
+    padding: 16px;
 
 }
