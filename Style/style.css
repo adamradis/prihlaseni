@@ -30,6 +30,7 @@ justify-content: center;
     color: azure;
     padding: 5px;
     border: 1px solid black;
+    text-decoration: none;
 
 
 }
@@ -40,5 +41,17 @@ justify-content: center;
     justify-content: space-around;
     margin: auto;
     padding: 16px;
+    
+
+}
+
+#heslo{
+    background-color:goldenrod;
+
+
+}
+
+#prihlaseni{
+background-color:green;
 
 }
